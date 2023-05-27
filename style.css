@@ -1,0 +1,147 @@
+ * {
+	margin: 0;
+	font-family: 'Inter';
+}
+
+#containerHigher {
+	background-color: #303030;
+}
+
+#headText h1 {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 60px;
+	line-height: 72px;
+	letter-spacing: -0.025em;
+	font-feature-settings: 'liga' off;
+	color: #FFFFFF;
+	padding-top: 297px;
+	padding-left: 62px;
+}
+
+#headText p {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 28px;
+	font-feature-settings: 'liga' off;
+	color: #FFFFFF;
+	padding-left: 62px;
+	padding-bottom: 149px;
+}
+
+#containerInfo {
+	display: grid;
+	grid-auto-flow: column;
+	grid-auto-columns: 1fr;
+	background-color: #F9F9F9;
+}
+
+.headInfo h1 {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 40px;
+	line-height: 28px;
+	color: #000000;
+	padding-top: 96px;
+	padding-left: 171px;
+}
+
+.headInfo p {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 28px;
+	color: #000000;
+	padding-left: 171px;
+	padding-bottom: 67px;
+}
+
+#containerHistoric {
+	display: grid;
+	grid-auto-flow: column;
+	grid-auto-columns: 1fr;
+	background-color: #F5F5F5;
+}
+
+#historicText h1 {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 40px;
+	line-height: 20px;
+	align-items: center;
+	color: #000000;
+	padding-top: 304px;
+	padding-left: 77px;
+}
+
+#historicText p {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 300;
+	font-size: 24px;
+	line-height: 30px;
+	align-items: center;
+	color: #000000;
+	padding-bottom: 314px;
+	padding-left: 77px;
+}
+
+img {
+	padding-top: 82px;
+	padding-left: 64px;
+}
+
+#containerForm {
+	background-color: #303030;
+	text-align: center;
+}
+
+#containerForm h1 {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 32px;
+	line-height: 150%;
+	text-align: center;
+	color: #FFFFFF;
+	padding-top: 87px;
+}
+
+input {
+	width: 508px;
+	height: 72px;
+	background: #FFFFFF;
+	border-radius: 10px;
+	margin: 62px;
+	background: #FFFFFF;
+	border-radius: 10px;
+	padding-left: 30px;
+	font-family: 'Raleway';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 30px;
+	color: rgba(0, 0, 0, 0.3);
+}
+
+button {
+	width: 286px;
+	height: 74px;
+	margin-top: 88px;
+	margin-bottom: 87px;
+	background: #C07212;
+	border-radius: 10px;
+	font-family: 'Raleway';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 30px;
+	line-height: 30px;
+	color: #FFFFFF;
+	border: none;
+}
