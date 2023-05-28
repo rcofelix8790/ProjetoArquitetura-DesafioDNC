@@ -48,6 +48,7 @@
 	color: #000000;
 	padding-top: 96px;
 	padding-left: 171px;
+	margin-bottom: 5px;
 }
 
 .headInfo p {
@@ -114,33 +115,33 @@ img {
 }
 
 input {
-	width: 508px;
-	height: 72px;
+	width: 308px;
+	height: 52px;
 	background: #FFFFFF;
 	border-radius: 10px;
-	margin: 62px;
+	margin: 22px;
 	background: #FFFFFF;
 	border-radius: 10px;
-	padding-left: 30px;
+	padding-left: 15px;
 	font-family: 'Raleway';
 	font-style: normal;
-	font-weight: 700;
-	font-size: 24px;
-	line-height: 30px;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 10px;
 	color: rgba(0, 0, 0, 0.3);
 }
 
 button {
-	width: 286px;
-	height: 74px;
-	margin-top: 88px;
+	width: 186px;
+	height: 54px;
+	margin-top: 35px;
 	margin-bottom: 87px;
 	background: #C07212;
 	border-radius: 10px;
 	font-family: 'Raleway';
 	font-style: normal;
 	font-weight: 700;
-	font-size: 30px;
+	font-size: 20px;
 	line-height: 30px;
 	color: #FFFFFF;
 	border: none;
